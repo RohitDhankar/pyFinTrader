@@ -1,5 +1,5 @@
 # pyFinTrader
-NASDAQ Symbols -- ROST[ROST(NASDAQ)_ROSS_STORES] and TJX[TJX_Companies_Inc] - data for trades from June 2019 till date here == https://github.com/RohitDhankar/pyFinTrader/tree/master/tempDataDir- pyFinTrader
+NASDAQ Symbols -- ROST[ROST(NASDAQ)_ROSS_STORES] and TJX[TJX_Companies_Inc] - data for trades from June 2019 till date here == https://github.com/RohitDhankar/pyFinTrader/tree/master/tempDataDir    @pyFinTrader
 
 Initial thoughts -- 
 
